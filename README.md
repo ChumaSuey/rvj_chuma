@@ -40,6 +40,8 @@ The Chthon fight was an improvisation but after doing it for the Quake from memo
 
 The texture of the Hooks were changed based on Em3rald’s feedback, i used rm_mechanics.wad tech one (the one i improvised from makkon textures didn’t have animations).
 
+The reason why i used Malice Quake track in the end was because it's my favorite Quake Intermission screen track... i believe it worked as a victory song.
+
 #### Music production
 
 The map had to attain to be aggresive fight focused because it’s short, i decided to create the songs since i was starting practicing FL Studio… Electric Lava Compactor was my second song in history ever being made… From QC soundtrack , Goroth - Chris Vrenna i imported the notes of the guitar of the original song into ELC, basically i listened to the songs, recreated it in Piano and polished them in FL Studio and got to keep working on the song. (DevSEB in the master added a some Kicks that were amazing, i appreciate his creativity here)

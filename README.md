@@ -5,15 +5,23 @@ Map for Quake mod “Arcane Dimensions” for the Christmas Jumper Jam.
 ### Author info / Metadata
 
 Map name: Disrupted Keep
+
 Author : Chuma
+
 Mod : Re:Mobilized
+
 bsp name: xmjr_chuma
+
+Original map: Quake Champions "Corrupted Keep".
 
 Songs used: 
 Track 126: Electric Lava Hopper - Blood Instinct.
+
 Track 127: Electric Lava Compactor - Blood Instinct.
+
 Track 128: Electric Lava Disposal - Blood Instinct.
-Track 129: Slaughterhouse - James D. Anderson (Track02 of Malice, Quake game soundtrack)
+
+Track 129: Slaughterhouse - James D. Anderson (Track02 of Malice, Quake game soundtrack).
 
  Blood Instinct is my band, i’ve made the songs with mixing and remastering help by DevSEB (in spirit a co author to the songs).
 ### General Information / Behind the scenes.

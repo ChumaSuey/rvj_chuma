@@ -5,15 +5,23 @@ Map for Quake mod “Arcane Dimensions” for the Christmas Jumper Jam.
 ### Author info / Metadata
 
 Map name: Disrupted Keep
+
 Author : Chuma
+
 Mod : Re:Mobilized
+
 bsp name: xmjr_chuma
+
+Original map: Quake Champions "Corrupted Keep".
 
 Songs used: 
 Track 126: Electric Lava Hopper - Blood Instinct.
+
 Track 127: Electric Lava Compactor - Blood Instinct.
+
 Track 128: Electric Lava Disposal - Blood Instinct.
-Track 129: Slaughterhouse - James D. Anderson (Track02 of Malice, Quake game soundtrack)
+
+Track 129: Slaughterhouse - James D. Anderson (Track02 of Malice, Quake game soundtrack).
 
  Blood Instinct is my band, i’ve made the songs with mixing and remastering help by DevSEB (in spirit a co author to the songs).
 ### General Information / Behind the scenes.
@@ -31,6 +39,8 @@ Keeping the use the layout and make the map have it’s own merit and spirit, i 
 The Chthon fight was an improvisation but after doing it for the Quake from memory jam, a Killable Chthon entity should be fun to play with at least… the map was then ready.
 
 The texture of the Hooks were changed based on Em3rald’s feedback, i used rm_mechanics.wad tech one (the one i improvised from makkon textures didn’t have animations).
+
+The reason why i used Malice Quake track in the end was because it's my favorite Quake Intermission screen track... i believe it worked as a victory song.
 
 #### Music production
 

@@ -16650,6 +16650,142 @@
 // entity 691
 {
 "classname" "func_group"
+"_tb_type" "_tb_group"
+"_tb_name" "ambient wind template"
+"_tb_id" "144"
+"_tb_linked_group_id" "{dcd50b98-e9f9-46d9-a01c-91ecc9cd2def}"
+"_tb_transformation" "1 0 0 928 0 1 0 -96 0 0 1 0 0 0 0 1"
+}
+// entity 692
+{
+"classname" "ambient_general"
+"origin" "-1560 2552 -232"
+"noise" "ambient/farambient_l.wav"
+"volume" "0.25"
+"_tb_group" "144"
+}
+// entity 693
+{
+"classname" "func_group"
+"_tb_type" "_tb_group"
+"_tb_name" "ambient wind template"
+"_tb_id" "145"
+"_tb_linked_group_id" "{dcd50b98-e9f9-46d9-a01c-91ecc9cd2def}"
+"_tb_transformation" "1 0 0 -144 0 1 0 -32 0 0 1 0 0 0 0 1"
+}
+// entity 694
+{
+"classname" "ambient_general"
+"origin" "-2632 2616 -232"
+"noise" "ambient/farambient_l.wav"
+"volume" "0.25"
+"_tb_group" "145"
+}
+// entity 695
+{
+"classname" "func_group"
+"_tb_type" "_tb_group"
+"_tb_name" "ambient wind template"
+"_tb_id" "146"
+"_tb_linked_group_id" "{dcd50b98-e9f9-46d9-a01c-91ecc9cd2def}"
+"_tb_transformation" "1 0 0 1968 0 1 0 784 0 0 1 0 0 0 0 1"
+}
+// entity 696
+{
+"classname" "ambient_general"
+"origin" "-520 3432 -232"
+"noise" "ambient/farambient_l.wav"
+"volume" "0.25"
+"_tb_group" "146"
+}
+// entity 697
+{
+"classname" "func_group"
+"_tb_type" "_tb_group"
+"_tb_name" "ambient wind template"
+"_tb_id" "147"
+"_tb_linked_group_id" "{dcd50b98-e9f9-46d9-a01c-91ecc9cd2def}"
+"_tb_transformation" "1 0 0 -544 0 1 0 1216 0 0 1 0 0 0 0 1"
+}
+// entity 698
+{
+"classname" "ambient_general"
+"origin" "-3032 3864 -232"
+"noise" "ambient/farambient_l.wav"
+"volume" "0.25"
+"_tb_group" "147"
+}
+// entity 699
+{
+"classname" "func_group"
+"_tb_type" "_tb_group"
+"_tb_name" "ambient wind template"
+"_tb_id" "148"
+"_tb_linked_group_id" "{dcd50b98-e9f9-46d9-a01c-91ecc9cd2def}"
+"_tb_transformation" "1 0 0 -144 0 1 0 1904 0 0 1 0 0 0 0 1"
+}
+// entity 700
+{
+"classname" "ambient_general"
+"origin" "-2632 4552 -232"
+"noise" "ambient/farambient_l.wav"
+"volume" "0.25"
+"_tb_group" "148"
+}
+// entity 701
+{
+"classname" "func_group"
+"_tb_type" "_tb_group"
+"_tb_name" "ambient wind template"
+"_tb_id" "149"
+"_tb_linked_group_id" "{dcd50b98-e9f9-46d9-a01c-91ecc9cd2def}"
+"_tb_transformation" "1 0 0 -544 0 1 0 1904 0 0 1 0 0 0 0 1"
+}
+// entity 702
+{
+"classname" "ambient_general"
+"origin" "-3032 4552 -232"
+"noise" "ambient/farambient_l.wav"
+"volume" "0.25"
+"_tb_group" "149"
+}
+// entity 703
+{
+"classname" "func_group"
+"_tb_type" "_tb_group"
+"_tb_name" "ambient wind template"
+"_tb_id" "150"
+"_tb_linked_group_id" "{dcd50b98-e9f9-46d9-a01c-91ecc9cd2def}"
+"_tb_transformation" "1 0 0 1968 0 1 0 544 0 0 1 0 0 0 0 1"
+}
+// entity 704
+{
+"classname" "ambient_general"
+"origin" "-520 3192 -232"
+"noise" "ambient/farambient_l.wav"
+"volume" "0.25"
+"_tb_group" "150"
+}
+// entity 705
+{
+"classname" "func_group"
+"_tb_type" "_tb_group"
+"_tb_name" "ambient wind template"
+"_tb_id" "151"
+"_tb_linked_group_id" "{dcd50b98-e9f9-46d9-a01c-91ecc9cd2def}"
+"_tb_transformation" "1 0 0 112 0 1 0 -48 0 0 1 0 0 0 0 1"
+}
+// entity 706
+{
+"classname" "ambient_general"
+"origin" "-2376 2600 -232"
+"noise" "ambient/farambient_l.wav"
+"volume" "0.25"
+"_tb_group" "151"
+}
+// entity 707
+{
+"classname" "func_group"
 "_tb_type" "_tb_layer"
 "_tb_name" "Templates and Active H/W/T"
 "_tb_id" "4"
@@ -16709,7 +16845,7 @@
 ( 448 144 -112 ) ( 448 144 -111 ) ( 448 145 -112 ) techflat1_grey1 [ 0 -1 0 16 ] [ 0 0 -1 0 ] 90 1 1
 }
 }
-// entity 692
+// entity 708
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -16719,7 +16855,7 @@
 "_tb_transformation" "1 0 0 752 0 1 0 128 0 0 1 32 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 693
+// entity 709
 {
 "classname" "func_hook"
 "_tb_group" "3"
@@ -16742,7 +16878,7 @@
 ( 320 96 80 ) ( 320 97 80 ) ( 320 96 79 ) ind_light_fbo [ -1.2246467991473535e-16 -6.123233995736767e-17 -1.0000000000000002 -160 ] [ 6.123233995736767e-17 -1.0000000000000002 6.123233995736767e-17 -16 ] 180 1 1
 }
 }
-// entity 694
+// entity 710
 {
 "classname" "trigger_trampoline"
 "_tb_layer" "4"
@@ -16756,7 +16892,7 @@
 ( 352 48 32 ) ( 352 48 33 ) ( 352 49 32 ) trigger [ 0 1 0 32 ] [ 0 0 -1 -32 ] 180 1 1
 }
 }
-// entity 695
+// entity 711
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -16765,7 +16901,7 @@
 "_tb_linked_group_id" "{5e681b6c-5eb1-48ec-acb9-3cdabeabdfb3}"
 "_tb_layer" "4"
 }
-// entity 696
+// entity 712
 {
 "classname" "func_wall"
 "_tb_group" "6"
@@ -16779,7 +16915,7 @@
 ( 448 288 16 ) ( 448 288 17 ) ( 448 289 16 ) {ind_grt1_ylw1 [ 0 -1.0000000000000002 0 40 ] [ 0 0 -1.0000000000000002 0 ] 90 1 1
 }
 }
-// entity 697
+// entity 713
 {
 "classname" "trigger_wiremesh"
 "_tb_group" "6"
@@ -16793,7 +16929,7 @@
 ( 448 288 16 ) ( 448 288 17 ) ( 448 289 16 ) trigger [ 0 -1.0000000000000002 0 40 ] [ 0 0 -1.0000000000000002 0 ] 180 1 1
 }
 }
-// entity 698
+// entity 714
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -16803,7 +16939,7 @@
 "_tb_transformation" "6.123233995736766e-17 1 0 -1136 -1 6.123233995736766e-17 0 3360 0 0 1 -304 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 699
+// entity 715
 {
 "classname" "func_wall"
 "_tb_group" "7"
@@ -16817,7 +16953,7 @@
 ( -1160 2976 -320 ) ( -1160 2975 -320 ) ( -1160 2976 -319 ) {ind_grt1_ylw1 [ 6.123233995736766e-17 -1 0 352 ] [ 0 0 -1 -304 ] 270 1 1
 }
 }
-// entity 700
+// entity 716
 {
 "classname" "trigger_wiremesh"
 "_tb_group" "7"
@@ -16831,7 +16967,7 @@
 ( -1152 2976 -320 ) ( -1152 2975 -320 ) ( -1152 2976 -319 ) trigger [ 6.123233995736766e-17 -1 0 32 ] [ 0 0 -1 -48 ] 90 1 1
 }
 }
-// entity 701
+// entity 717
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -16841,7 +16977,7 @@
 "_tb_transformation" "6.123233995736766e-17 1 0 -1360 -1 6.123233995736766e-17 0 3632 0 0 1 -272 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 702
+// entity 718
 {
 "classname" "func_wall"
 "_tb_group" "10"
@@ -16855,7 +16991,7 @@
 ( -1384 3248 -288 ) ( -1384 3247 -288 ) ( -1384 3248 -287 ) {ind_grt1_ylw1 [ 6.123233995736766e-17 -1 0 112 ] [ 0 0 -1 -272 ] 0 1 1
 }
 }
-// entity 703
+// entity 719
 {
 "classname" "trigger_wiremesh"
 "_tb_group" "10"
@@ -16869,7 +17005,7 @@
 ( -1376 3248 -288 ) ( -1376 3247 -288 ) ( -1376 3248 -287 ) trigger [ 6.123233995736766e-17 -1 0 -16 ] [ 0 0 -1 -16 ] 180 1 1
 }
 }
-// entity 704
+// entity 720
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -16879,7 +17015,7 @@
 "_tb_transformation" "6.123233995736766e-17 1 0 -992 -1 6.123233995736766e-17 0 4448 0 0 1 -272 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 705
+// entity 721
 {
 "classname" "func_wall"
 "_tb_group" "11"
@@ -16893,7 +17029,7 @@
 ( -1016 4064 -288 ) ( -1016 4063 -288 ) ( -1016 4064 -287 ) {ind_grt1_ylw1 [ 6.123233995736766e-17 -1 0 416 ] [ 0 0 -1 -272 ] 90 1 1
 }
 }
-// entity 706
+// entity 722
 {
 "classname" "trigger_wiremesh"
 "_tb_group" "11"
@@ -16907,7 +17043,7 @@
 ( -1008 4064 -288 ) ( -1008 4063 -288 ) ( -1008 4064 -287 ) trigger [ 6.123233995736766e-17 -1 0 32 ] [ 0 0 -1 -16 ] 270 1 1
 }
 }
-// entity 707
+// entity 723
 {
 "classname" "trigger_trampoline"
 "_tb_layer" "4"
@@ -16921,7 +17057,7 @@
 ( -1056 3776 -320 ) ( -1056 3776 -319 ) ( -1056 3777 -320 ) trigger [ 0 1 0 16 ] [ 0 0 -1 0 ] 180 1 1
 }
 }
-// entity 708
+// entity 724
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -16931,7 +17067,7 @@
 "_tb_transformation" "-1 1.2246467991473532e-16 0 -1072 -1.2246467991473532e-16 -1 0 3104 0 0 1 -272 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 709
+// entity 725
 {
 "classname" "func_wall"
 "_tb_group" "20"
@@ -16945,7 +17081,7 @@
 ( -1456 2944 -288 ) ( -1456 2943 -288 ) ( -1456 2944 -287 ) {ind_grt1_ylw1 [ 1.2246467991473535e-16 -1.0000000000000002 0 -8 ] [ 0 0 -1.0000000000000002 -272 ] 180 1 1
 }
 }
-// entity 710
+// entity 726
 {
 "classname" "trigger_wiremesh"
 "_tb_group" "20"
@@ -16959,7 +17095,7 @@
 ( -1456 2944 -288 ) ( -1456 2943 -288 ) ( -1456 2944 -287 ) trigger [ 1.2246467991473535e-16 -1.0000000000000002 0 -8 ] [ 0 0 -1.0000000000000002 -16 ] 270 1 1
 }
 }
-// entity 711
+// entity 727
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -16969,7 +17105,7 @@
 "_tb_transformation" "-1 1.2246467991473532e-16 0 -1296 -1.2246467991473532e-16 -1 0 2912 0 0 1 -256 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 712
+// entity 728
 {
 "classname" "func_wall"
 "_tb_group" "24"
@@ -16983,7 +17119,7 @@
 ( -1616 2976 -224 ) ( -1616 2976 -225 ) ( -1616 2975 -224 ) {ind_grt1_ylw1 [ 3.0616169978683836e-16 6.123233995736766e-17 -1.0000000000000002 -104 ] [ 6.123233995736767e-17 1.0000000000000002 6.123233995736767e-17 -400 ] 0 1 1
 }
 }
-// entity 713
+// entity 729
 {
 "classname" "trigger_wiremesh"
 "_tb_group" "24"
@@ -16997,7 +17133,7 @@
 ( -1616 2976 -224 ) ( -1616 2976 -225 ) ( -1616 2975 -224 ) trigger [ 3.0616169978683836e-16 6.123233995736766e-17 -1.0000000000000002 24 ] [ 6.123233995736767e-17 1.0000000000000002 6.123233995736767e-17 -16 ] 90 1 1
 }
 }
-// entity 714
+// entity 730
 {
 "classname" "trigger_trampoline"
 "_tb_layer" "4"
@@ -17011,7 +17147,7 @@
 ( -1744 3472 -304 ) ( -1744 3472 -303 ) ( -1744 3473 -304 ) trigger [ 0 1 0 0 ] [ 0 0 -1 16 ] 90 1 1
 }
 }
-// entity 715
+// entity 731
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -17020,7 +17156,7 @@
 "_tb_linked_group_id" "{0a602bbf-3565-45e1-b082-9a954565093a}"
 "_tb_layer" "4"
 }
-// entity 716
+// entity 732
 {
 "classname" "trigger_trampoline"
 "_tb_group" "36"
@@ -17034,7 +17170,7 @@
 ( -2240 3376 -304 ) ( -2240 3376 -303 ) ( -2240 3377 -304 ) trigger [ 0 1 0 32 ] [ 0 0 -1 16 ] 180 1 1
 }
 }
-// entity 717
+// entity 733
 {
 "classname" "func_wall"
 "_tb_group" "36"
@@ -17048,7 +17184,7 @@
 ( -2224 3376 -304 ) ( -2224 3376 -303 ) ( -2224 3377 -304 ) {ind_fnc5_ylw1 [ 0 1 0 32 ] [ 0 0 -1 80 ] 180 1 1
 }
 }
-// entity 718
+// entity 734
 {
 "classname" "func_detail_illusionary"
 "_tb_group" "36"
@@ -17062,7 +17198,7 @@
 ( -2224 3376 -304 ) ( -2224 3376 -303 ) ( -2224 3377 -304 ) ind_dp01_grey1 [ 0 1 0 32 ] [ 0 0 -1 80 ] 180 1 1
 }
 }
-// entity 719
+// entity 735
 {
 "classname" "func_detail_illusionary"
 "_tb_group" "36"
@@ -17076,7 +17212,7 @@
 ( -2224 3232 -304 ) ( -2224 3232 -303 ) ( -2224 3233 -304 ) ind_dp01_grey1 [ 0 1 0 176 ] [ 0 0 -1 80 ] 90 1 1
 }
 }
-// entity 720
+// entity 736
 {
 "classname" "func_detail_illusionary"
 "_tb_group" "36"
@@ -17090,7 +17226,7 @@
 ( -2208 3232 -304 ) ( -2208 3231 -304 ) ( -2208 3232 -303 ) ind_dp01_grey1 [ -6.123233995736766e-17 1 0 -16 ] [ 0 0 -1 80 ] 0 1 1
 }
 }
-// entity 721
+// entity 737
 {
 "classname" "func_detail_illusionary"
 "_tb_group" "36"
@@ -17113,7 +17249,7 @@
 ( -2560 3968 -272 ) ( -2560 3968 -271 ) ( -2560 3969 -272 ) ind_dp01_grey1 [ 0 1 0 -48 ] [ 0 0 -1 112 ] 90 1 1
 }
 }
-// entity 722
+// entity 738
 {
 "classname" "func_detail_illusionary"
 "_tb_group" "36"
@@ -17127,7 +17263,7 @@
 ( -2704 3968 -272 ) ( -2704 3968 -271 ) ( -2704 3969 -272 ) ind_dp01_grey1 [ 0 1 0 -48 ] [ 0 0 -1 112 ] 180 1 1
 }
 }
-// entity 723
+// entity 739
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -17137,7 +17273,7 @@
 "_tb_transformation" "1 0 0 -352 0 1 0 592.0000000000005 0 0 1 32 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 724
+// entity 740
 {
 "classname" "trigger_trampoline"
 "_tb_group" "37"
@@ -17151,7 +17287,7 @@
 ( -2592 3968 -272 ) ( -2592 3968 -271 ) ( -2592 3969 -272 ) trigger [ 0 1 0 16 ] [ 0 0 -1 48 ] 180 1 1
 }
 }
-// entity 725
+// entity 741
 {
 "classname" "func_wall"
 "_tb_group" "37"
@@ -17165,7 +17301,7 @@
 ( -2576 3968 -272 ) ( -2576 3968 -271 ) ( -2576 3969 -272 ) {ind_fnc5_ylw1 [ 0 1 0 -48 ] [ 0 0 -1 112 ] 180 1 1
 }
 }
-// entity 726
+// entity 742
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -17175,7 +17311,7 @@
 "_tb_transformation" "1 -2.4492935982947064e-16 0 -2896 2.4492935982947064e-16 1 0 3903.9999999999995 0 0 1 -272 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 727
+// entity 743
 {
 "classname" "func_wall"
 "_tb_group" "38"
@@ -17189,7 +17325,7 @@
 ( -2448 4192 -256 ) ( -2448 4192 -255 ) ( -2448 4193 -256 ) {ind_grt1_ylw1 [ 2.449293598294707e-16 -1.0000000000000002 0 360 ] [ 0 0 -1.0000000000000002 -272 ] 180 1 1
 }
 }
-// entity 728
+// entity 744
 {
 "classname" "trigger_wiremesh"
 "_tb_group" "38"
@@ -17203,7 +17339,7 @@
 ( -2448 4192 -256 ) ( -2448 4192 -255 ) ( -2448 4193 -256 ) trigger [ 2.449293598294707e-16 -1.0000000000000002 0 40 ] [ 0 0 -1.0000000000000002 -16 ] 270 1 1
 }
 }
-// entity 729
+// entity 745
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -17213,7 +17349,7 @@
 "_tb_transformation" "1 -2.4492935982947064e-16 0 -3216 2.4492935982947064e-16 1 0 3903.9999999999995 0 0 1 -272 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 730
+// entity 746
 {
 "classname" "func_wall"
 "_tb_group" "39"
@@ -17227,7 +17363,7 @@
 ( -2768 4192 -256 ) ( -2768 4192 -255 ) ( -2768 4193 -256 ) {ind_grt1_ylw1 [ 2.449293598294707e-16 -1.0000000000000002 0 360 ] [ 0 0 -1.0000000000000002 -272 ] 180 1 1
 }
 }
-// entity 731
+// entity 747
 {
 "classname" "trigger_wiremesh"
 "_tb_group" "39"
@@ -17241,7 +17377,7 @@
 ( -2768 4192 -256 ) ( -2768 4192 -255 ) ( -2768 4193 -256 ) trigger [ 2.449293598294707e-16 -1.0000000000000002 0 -24 ] [ 0 0 -1.0000000000000002 -16 ] 270 1 1
 }
 }
-// entity 732
+// entity 748
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -17251,7 +17387,7 @@
 "_tb_transformation" "1 0 0 192 0 1 0 720.0000000000005 0 0 1 -16 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 733
+// entity 749
 {
 "classname" "trigger_trampoline"
 "_tb_group" "43"
@@ -17265,7 +17401,7 @@
 ( -2048 4096 -320 ) ( -2048 4096 -319 ) ( -2048 4097 -320 ) trigger [ 0 1 0 16 ] [ 0 0 -1 0 ] 180 1 1
 }
 }
-// entity 734
+// entity 750
 {
 "classname" "func_wall"
 "_tb_group" "43"
@@ -17279,7 +17415,7 @@
 ( -2032 4096 -320 ) ( -2032 4096 -319 ) ( -2032 4097 -320 ) {ind_fnc5_ylw1 [ 0 1 0 80 ] [ 0 0 -1 64 ] 180 1 1
 }
 }
-// entity 735
+// entity 751
 {
 "classname" "func_detail_illusionary"
 "_tb_group" "43"
@@ -17293,7 +17429,7 @@
 ( -2016 4096 -320 ) ( -2016 4096 -319 ) ( -2016 4097 -320 ) ind_dp01_grey1 [ 0 1 0 80 ] [ 0 0 -1 64 ] 90 1 1
 }
 }
-// entity 736
+// entity 752
 {
 "classname" "func_detail_illusionary"
 "_tb_group" "43"
@@ -17316,7 +17452,7 @@
 ( -2016 4096 -320 ) ( -2016 4096 -319 ) ( -2016 4097 -320 ) ind_dp01_grey1 [ 0 1 0 80 ] [ 0 0 -1 64 ] 180 1 1
 }
 }
-// entity 737
+// entity 753
 {
 "classname" "func_detail_illusionary"
 "_tb_group" "43"
@@ -17330,7 +17466,7 @@
 ( -2016 3952 -320 ) ( -2016 3952 -319 ) ( -2016 3953 -320 ) ind_dp01_grey1 [ 0 1 0 224 ] [ 0 0 -1 64 ] 90 1 1
 }
 }
-// entity 738
+// entity 754
 {
 "classname" "func_detail_illusionary"
 "_tb_group" "43"
@@ -17344,7 +17480,7 @@
 ( -1168 3968 -320 ) ( -1168 3967 -320 ) ( -1168 3968 -319 ) ind_dp01_grey1 [ -6.123233995736766e-17 1 0 -240 ] [ 0 0 -1 64 ] 90 1 1
 }
 }
-// entity 739
+// entity 755
 {
 "classname" "func_detail_illusionary"
 "_tb_group" "43"
@@ -17358,7 +17494,7 @@
 ( -1024 3968 -320 ) ( -1024 3967 -320 ) ( -1024 3968 -319 ) ind_dp01_grey1 [ -6.123233995736766e-17 1 0 -240 ] [ 0 0 -1 64 ] 180 1 1
 }
 }
-// entity 740
+// entity 756
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -17368,7 +17504,7 @@
 "_tb_transformation" "3.061616997868383e-16 1 0 -2320.0000000000005 -1 3.061616997868383e-16 0 3856 0 0 1 -272 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 741
+// entity 757
 {
 "classname" "func_wall"
 "_tb_group" "46"
@@ -17382,7 +17518,7 @@
 ( -2344 3472 -288 ) ( -2344 3471 -288 ) ( -2344 3472 -287 ) {ind_grt1_ylw1 [ 3.061616997868383e-16 -1 0 336 ] [ 0 0 -1 -272 ] 90 1 1
 }
 }
-// entity 742
+// entity 758
 {
 "classname" "trigger_wiremesh"
 "_tb_group" "46"
@@ -17396,7 +17532,7 @@
 ( -2336 3472 -288 ) ( -2336 3471 -288 ) ( -2336 3472 -287 ) trigger [ 3.061616997868383e-16 -1 0 -48 ] [ 0 0 -1 -16 ] 270 1 1
 }
 }
-// entity 743
+// entity 759
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -17406,7 +17542,7 @@
 "_tb_transformation" "3.061616997868383e-16 1 0 -2320.0000000000005 -1 3.061616997868383e-16 0 3600 0 0 1 -272 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 744
+// entity 760
 {
 "classname" "func_wall"
 "_tb_group" "47"
@@ -17420,7 +17556,7 @@
 ( -2344 3216 -288 ) ( -2344 3215 -288 ) ( -2344 3216 -287 ) {ind_grt1_ylw1 [ 3.061616997868383e-16 -1 0 80 ] [ 0 0 -1 -272 ] 90 1 1
 }
 }
-// entity 745
+// entity 761
 {
 "classname" "trigger_wiremesh"
 "_tb_group" "47"
@@ -17434,7 +17570,7 @@
 ( -2336 3216 -288 ) ( -2336 3215 -288 ) ( -2336 3216 -287 ) trigger [ 3.061616997868383e-16 -1 0 16 ] [ 0 0 -1 -16 ] 270 1 1
 }
 }
-// entity 746
+// entity 762
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -17444,7 +17580,7 @@
 "_tb_transformation" "1 0 0 1248 0 1 0 -3536 0 0 1 320 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 747
+// entity 763
 {
 "classname" "func_door"
 "angle" "-1"
@@ -17479,7 +17615,7 @@
 ( 384 64 112 ) ( 384 80 112 ) ( 384 80 0 ) techflat1_grey1 [ -1.2246467991473535e-16 -6.123233995736769e-17 1.0000000000000002 -253 ] [ -1.2246467991473535e-16 1.0000000000000002 6.123233995736767e-17 159 ] 90 1 1
 }
 }
-// entity 748
+// entity 764
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -17489,7 +17625,7 @@
 "_tb_transformation" "-6.123233995736771e-17 -1.224646799147353e-16 -1 -1848 3.67394039744206e-16 1 -1.2246467991473532e-16 -327.9999999999998 1 -3.67394039744206e-16 -6.123233995736766e-17 184 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 749
+// entity 765
 {
 "classname" "func_hook"
 "_tb_group" "58"
@@ -17512,7 +17648,7 @@
 ( -1944 -344 -280 ) ( -1944 -343 -280 ) ( -1944 -344 -281 ) ind_light_fbo [ -6.123233995736761e-17 -4.2862637970157366e-16 -1 -24 ] [ 6.123233995736764e-17 -1 4.2862637970157366e-16 -88 ] 270 1 1
 }
 }
-// entity 750
+// entity 766
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -17522,7 +17658,7 @@
 "_tb_transformation" "3.67394039744206e-16 1 -1.8369701987210297e-16 -1503.9999999999998 6.123233995736773e-17 1.8369701987210297e-16 1 -160 1 -3.67394039744206e-16 -6.123233995736766e-17 168.00000000000006 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 751
+// entity 767
 {
 "classname" "func_hook"
 "_tb_group" "65"
@@ -17545,7 +17681,7 @@
 ( -1520 -272 -296 ) ( -1520 -272 -297 ) ( -1520 -273 -296 ) ind_light_fbo [ 1.2246467991473525e-16 -1 -6.123233995736766e-17 32 ] [ 4.2862637970157366e-16 -6.123233995736759e-17 1 -88 ] 90 1 1
 }
 }
-// entity 752
+// entity 768
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -17555,7 +17691,7 @@
 "_tb_transformation" "3.67394039744206e-16 1 -1.8369701987210297e-16 -1503.9999999999998 6.123233995736773e-17 1.8369701987210297e-16 1 192 1 -3.67394039744206e-16 -6.123233995736766e-17 168.00000000000006 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 753
+// entity 769
 {
 "classname" "func_hook"
 "_tb_group" "64"
@@ -17578,7 +17714,7 @@
 ( -1520 80 -296 ) ( -1520 80 -297 ) ( -1520 79 -296 ) ind_light_fbo [ 1.2246467991473525e-16 -1 -6.123233995736766e-17 128 ] [ 4.2862637970157366e-16 -6.123233995736759e-17 1 -88 ] 270 1 1
 }
 }
-// entity 754
+// entity 770
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -17588,7 +17724,7 @@
 "_tb_transformation" "-6.123233995736771e-17 -1.224646799147353e-16 -1 -1832 3.67394039744206e-16 1 -1.2246467991473532e-16 656.0000000000002 1 -3.67394039744206e-16 -6.123233995736766e-17 184 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 755
+// entity 771
 {
 "classname" "func_hook"
 "_tb_group" "57"
@@ -17611,7 +17747,7 @@
 ( -1928 640 -280 ) ( -1928 641 -280 ) ( -1928 640 -281 ) ind_light_fbo [ -6.123233995736761e-17 -4.2862637970157366e-16 -1 -24 ] [ 6.123233995736764e-17 -1 4.2862637970157366e-16 0 ] 270 1 1
 }
 }
-// entity 756
+// entity 772
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -17621,7 +17757,7 @@
 "_tb_transformation" "3.67394039744206e-16 1 -1.8369701987210297e-16 -1503.9999999999998 6.123233995736773e-17 1.8369701987210297e-16 1 192 1 -3.67394039744206e-16 -6.123233995736766e-17 -71.99999999999994 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 757
+// entity 773
 {
 "classname" "func_hook"
 "_tb_group" "63"
@@ -17644,7 +17780,7 @@
 ( -1520 80 -536 ) ( -1520 80 -537 ) ( -1520 79 -536 ) ind_light_fbo [ 1.2246467991473525e-16 -1 -6.123233995736766e-17 128 ] [ 4.2862637970157366e-16 -6.123233995736759e-17 1 24 ] 0 1 1
 }
 }
-// entity 758
+// entity 774
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -17654,7 +17790,7 @@
 "_tb_transformation" "-6.123233995736771e-17 -1.224646799147353e-16 -1 -1832 3.67394039744206e-16 1 -1.2246467991473532e-16 656.0000000000002 1 -3.67394039744206e-16 -6.123233995736766e-17 -72 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 759
+// entity 775
 {
 "classname" "func_hook"
 "_tb_group" "61"
@@ -17677,7 +17813,7 @@
 ( -1928 640 -536 ) ( -1928 641 -536 ) ( -1928 640 -537 ) ind_light_fbo [ -6.123233995736761e-17 -4.2862637970157366e-16 -1 -24 ] [ 6.123233995736764e-17 -1 4.2862637970157366e-16 0 ] 270 1 1
 }
 }
-// entity 760
+// entity 776
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -17687,7 +17823,7 @@
 "_tb_transformation" "-6.123233995736771e-17 -1.224646799147353e-16 -1 -1848 3.67394039744206e-16 1 -1.2246467991473532e-16 -327.9999999999998 1 -3.67394039744206e-16 -6.123233995736766e-17 -71.99999999999994 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 761
+// entity 777
 {
 "classname" "func_hook"
 "_tb_group" "60"
@@ -17710,7 +17846,7 @@
 ( -1944 -344 -536 ) ( -1944 -343 -536 ) ( -1944 -344 -537 ) ind_light_fbo [ -6.123233995736761e-17 -4.2862637970157366e-16 -1 -24 ] [ 6.123233995736764e-17 -1 4.2862637970157366e-16 -88 ] 90 1 1
 }
 }
-// entity 762
+// entity 778
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -17720,7 +17856,7 @@
 "_tb_transformation" "3.67394039744206e-16 1 -1.8369701987210297e-16 -1503.9999999999998 6.123233995736773e-17 1.8369701987210297e-16 1 -160 1 -3.67394039744206e-16 -6.123233995736766e-17 -71.99999999999994 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 763
+// entity 779
 {
 "classname" "func_hook"
 "_tb_group" "62"
@@ -17743,7 +17879,7 @@
 ( -1520 -272 -536 ) ( -1520 -272 -537 ) ( -1520 -273 -536 ) ind_light_fbo [ 1.2246467991473525e-16 -1 -6.123233995736766e-17 32 ] [ 4.2862637970157366e-16 -6.123233995736759e-17 1 24 ] 180 1 1
 }
 }
-// entity 764
+// entity 780
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -17753,7 +17889,7 @@
 "_tb_transformation" "1 0 0 -2544 0 1 0 480 0 0 1 -624 0 0 0 1"
 "_tb_layer" "4"
 }
-// entity 765
+// entity 781
 {
 "classname" "trigger_wiremesh"
 "speed" "500"
@@ -17769,7 +17905,7 @@
 ( -2080 144 -608 ) ( -2080 143 -608 ) ( -2080 144 -607 ) trigger [ 0 1.0000000000000002 0 -8 ] [ 0 0 -1.0000000000000002 -48 ] 180 1 1
 }
 }
-// entity 766
+// entity 782
 {
 "classname" "func_wall"
 "_tb_group" "59"
@@ -17783,7 +17919,7 @@
 ( -2080 144 -608 ) ( -2080 143 -608 ) ( -2080 144 -607 ) {ind_grt1_ylw1 [ 0 1.0000000000000002 0 -392 ] [ 0 0 -1.0000000000000002 -112 ] 90 1 1
 }
 }
-// entity 767
+// entity 783
 {
 "classname" "func_wall"
 "_tb_group" "59"
@@ -17797,7 +17933,7 @@
 ( -2048 176 -608 ) ( -2048 176 -607 ) ( -2048 177 -608 ) {ind_grt1_ylw1 [ 0 -1.0000000000000002 0 -72 ] [ 0 0 -1.0000000000000002 -112 ] 270 1 1
 }
 }
-// entity 768
+// entity 784
 {
 "classname" "trigger_wiremesh"
 "speed" "500"
@@ -17813,7 +17949,7 @@
 ( -2048 176 -608 ) ( -2048 176 -607 ) ( -2048 177 -608 ) trigger [ 0 -1.0000000000000002 0 -8 ] [ 0 0 -1.0000000000000002 -48 ] 0 1 1
 }
 }
-// entity 769
+// entity 785
 {
 "classname" "trigger_wiremesh"
 "_tb_layer" "4"
@@ -17827,7 +17963,7 @@
 ( -2288 2673 -234 ) ( -2288 2680 -234 ) ( -2288 2680 -304 ) trigger [ 0 -1 0 0 ] [ 0 0 -1 0 ] 180 1 1
 }
 }
-// entity 770
+// entity 786
 {
 "classname" "func_group"
 "_tb_type" "_tb_layer"
@@ -18490,14 +18626,14 @@
 ( 960 64 0 ) ( 960 64 1 ) ( 960 65 0 ) sky1 [ 0 -1 0 0 ] [ 0 0 -1 16 ] 180 1 1
 }
 }
-// entity 771
+// entity 787
 {
 "classname" "info_player_start"
 "origin" "1040 -144 40"
 "angle" "270"
 "_tb_layer" "5"
 }
-// entity 772
+// entity 788
 {
 "classname" "trigger_wiremesh"
 "_tb_layer" "5"
@@ -18511,7 +18647,7 @@
 ( 1104 48 16 ) ( 1104 48 17 ) ( 1104 49 16 ) trigger [ 0 -1.0000000000000002 0 -8 ] [ 0 0 -1.0000000000000002 0 ] 270 1 1
 }
 }
-// entity 773
+// entity 789
 {
 "classname" "func_wall"
 "_tb_layer" "5"
@@ -18525,7 +18661,7 @@
 ( 1104 48 16 ) ( 1104 48 17 ) ( 1104 49 16 ) {ind_grt1_ylw1 [ 0 -1.0000000000000002 0 -200 ] [ 0 0 -1.0000000000000002 0 ] 270 1 1
 }
 }
-// entity 774
+// entity 790
 {
 "classname" "trigger_take_weapon"
 "spawnflags" "1"
@@ -18540,7 +18676,7 @@
 ( 1088 -128 32 ) ( 1088 -128 33 ) ( 1088 -127 32 ) trigger [ 0 1 0 48 ] [ 0 0 -1 -16 ] 180 1 1
 }
 }
-// entity 775
+// entity 791
 {
 "classname" "trigger_trampoline"
 "_tb_layer" "5"
@@ -18554,7 +18690,7 @@
 ( 1088 96 32 ) ( 1088 96 33 ) ( 1088 97 32 ) trigger [ 0 1 0 48 ] [ 0 0 -1 -32 ] 270 1 1
 }
 }
-// entity 776
+// entity 792
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -18564,7 +18700,7 @@
 "_tb_transformation" "1 0 0 1536 0 1 0 240 0 0 1 96 0 0 0 1"
 "_tb_layer" "5"
 }
-// entity 777
+// entity 793
 {
 "classname" "func_hook"
 "_tb_group" "1"
@@ -18587,13 +18723,13 @@
 ( 1104 208 144 ) ( 1104 209 144 ) ( 1104 208 143 ) ind_light_fbo [ -1.2246467991473535e-16 -6.123233995736767e-17 -1.0000000000000002 -96 ] [ 6.123233995736767e-17 -1.0000000000000002 6.123233995736767e-17 -32 ] 90 1 1
 }
 }
-// entity 778
+// entity 794
 {
 "classname" "weapon_shotgun"
 "origin" "1040 -352 192"
 "_tb_layer" "5"
 }
-// entity 779
+// entity 795
 {
 "classname" "func_breakable"
 "spawnflags" "2"
@@ -18763,7 +18899,7 @@
 ( 1072 496 -48 ) ( 1072 496 -47 ) ( 1072 497 -48 ) techflat1_grey1 [ 0 -1 0 -16 ] [ 0 0 -1 0 ] 270 1 1
 }
 }
-// entity 780
+// entity 796
 {
 "classname" "func_button"
 "wait" "-1"
@@ -18780,7 +18916,7 @@
 ( 1104 400 256 ) ( 1104 368 224 ) ( 1104 368 256 ) +0techlight_r1 [ 0 1 0 16 ] [ 0 0 -1 0 ] 270 1 1
 }
 }
-// entity 781
+// entity 797
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -18790,7 +18926,7 @@
 "_tb_transformation" "1 0 0 1440 0 1 0 240 0 0 1 96 0 0 0 1"
 "_tb_layer" "5"
 }
-// entity 782
+// entity 798
 {
 "classname" "func_hook"
 "spawnflags" "0"
@@ -18814,7 +18950,7 @@
 ( 1008 208 144 ) ( 1008 209 144 ) ( 1008 208 143 ) ind_light_fbo [ -1.2246467991473535e-16 -6.123233995736767e-17 -1.0000000000000002 -96 ] [ 6.123233995736767e-17 -1.0000000000000002 6.123233995736767e-17 -32 ] 270 1 1
 }
 }
-// entity 783
+// entity 799
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -18824,7 +18960,7 @@
 "_tb_transformation" "1 0 0 -448 0 1 0 2664 0 0 1 -240 0 0 0 1"
 "_tb_layer" "5"
 }
-// entity 784
+// entity 800
 {
 "classname" "func_hook"
 "_tb_group" "8"
@@ -18847,7 +18983,7 @@
 ( -880 2632 -192 ) ( -880 2633 -192 ) ( -880 2632 -193 ) ind_light_fbo [ -1.2246467991473535e-16 -6.123233995736767e-17 -1.0000000000000002 -176 ] [ 6.123233995736767e-17 -1.0000000000000002 6.123233995736767e-17 -40 ] 90 1 1
 }
 }
-// entity 785
+// entity 801
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -18857,7 +18993,7 @@
 "_tb_transformation" "-1.8369701987210297e-16 -1 0 -808 1 -1.8369701987210297e-16 0 3216 0 0 1 -240 0 0 0 1"
 "_tb_layer" "5"
 }
-// entity 786
+// entity 802
 {
 "classname" "func_hook"
 "_tb_group" "9"
@@ -18880,7 +19016,7 @@
 ( -784 2960 -192 ) ( -784 2960 -193 ) ( -784 2959 -192 ) ind_light_fbo [ 6.12323399573677e-17 -1.2246467991473532e-16 -1 -48 ] [ -2.4492935982947064e-16 1 -1.2246467991473532e-16 -64 ] 180 1 1
 }
 }
-// entity 787
+// entity 803
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -18890,7 +19026,7 @@
 "_tb_transformation" "1 0 0 -768 0 1 0 4160 0 0 1 -208 0 0 0 1"
 "_tb_layer" "5"
 }
-// entity 788
+// entity 804
 {
 "classname" "func_hook"
 "_tb_group" "12"
@@ -18913,7 +19049,7 @@
 ( -1200 4128 -160 ) ( -1200 4129 -160 ) ( -1200 4128 -161 ) ind_light_fbo [ -1.2246467991473535e-16 -6.123233995736767e-17 -1.0000000000000002 -144 ] [ 6.123233995736767e-17 -1.0000000000000002 6.123233995736767e-17 48 ] 180 1 1
 }
 }
-// entity 789
+// entity 805
 {
 "classname" "func_hook"
 "_tb_group" "12"
@@ -18926,7 +19062,7 @@
 ( -1120 4136 32 ) ( -1136 4136 48 ) ( -1136 4264 48 ) ind_light_fbo [ 0.7071067811865476 0 -0.7071067811865476 90.31372 ] [ 0 -1 0 -80 ] 180 1 1
 }
 }
-// entity 790
+// entity 806
 {
 "classname" "func_hook"
 "_tb_group" "12"
@@ -18940,7 +19076,7 @@
 ( -1168 4128 -160 ) ( -1168 4129 -160 ) ( -1168 4128 -161 ) ind_light_fbo [ -1.2246467991473535e-16 -6.123233995736767e-17 -1.0000000000000002 -144 ] [ 6.123233995736767e-17 -1.0000000000000002 6.123233995736767e-17 48 ] 0 1 1
 }
 }
-// entity 791
+// entity 807
 {
 "classname" "misc_sparks"
 "origin" "-1144 4120 40"
@@ -18948,7 +19084,7 @@
 "targetname" "sparks02"
 "_tb_group" "12"
 }
-// entity 792
+// entity 808
 {
 "classname" "func_hook"
 "_tb_group" "12"
@@ -18962,7 +19098,7 @@
 ( -1120 3632 -104 ) ( -1120 3632 -104.5 ) ( -1120 3631.5 -104 ) ind_light_fbo [ -2.4492935982947064e-16 -1.2246467991473537e-16 2 -64 ] [ -3.6739403974420594e-16 2 1.2246467991473532e-16 -96 ] 0 1 1
 }
 }
-// entity 793
+// entity 809
 {
 "classname" "misc_sparks"
 "origin" "-1720 3936 -248"
@@ -18970,7 +19106,7 @@
 "targetname" "sparks02"
 "_tb_group" "12"
 }
-// entity 794
+// entity 810
 {
 "classname" "misc_sparks"
 "origin" "-1768 3936 -248"
@@ -18978,7 +19114,7 @@
 "targetname" "sparks02"
 "_tb_group" "12"
 }
-// entity 795
+// entity 811
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -18988,7 +19124,7 @@
 "_tb_transformation" "-1.8369701987210297e-16 -1 0 -1640 1 -1.8369701987210297e-16 0 3440 0 0 1 -272 0 0 0 1"
 "_tb_layer" "5"
 }
-// entity 796
+// entity 812
 {
 "classname" "func_hook"
 "_tb_group" "23"
@@ -19002,7 +19138,7 @@
 ( -1616 3184 -192 ) ( -1616 3184 -193 ) ( -1616 3183 -192 ) ind_light_fbo [ 6.12323399573677e-17 -1.2246467991473532e-16 -1 -16 ] [ -2.4492935982947064e-16 1 -1.2246467991473532e-16 -32 ] 270 1 1
 }
 }
-// entity 797
+// entity 813
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -19012,7 +19148,7 @@
 "_tb_transformation" "-1.8369701987210297e-16 -1 0 -2548 1 -1.8369701987210297e-16 0 3888 0 0 1 -128 0 0 0 1"
 "_tb_layer" "5"
 }
-// entity 798
+// entity 814
 {
 "classname" "func_hook"
 "_tb_group" "31"
@@ -19035,7 +19171,7 @@
 ( -2524 3632 -80 ) ( -2524 3632 -81 ) ( -2524 3631 -80 ) +0hook_1 [ 6.123233995736767e-17 -1.2246467991473535e-16 -1.0000000000000002 5.738695e-13 ] [ 0 1.0000000000000002 -1.2246467991473535e-16 0 ] 270 1 1
 }
 }
-// entity 799
+// entity 815
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -19045,7 +19181,7 @@
 "_tb_transformation" "-1.8369701987210297e-16 -1 0 -2720 1 -1.8369701987210297e-16 0 3232 0 0 1 -272 0 0 0 1"
 "_tb_layer" "5"
 }
-// entity 800
+// entity 816
 {
 "classname" "func_hook"
 "_tb_group" "34"
@@ -19059,7 +19195,7 @@
 ( -2696 2976 -192 ) ( -2696 2976 -193 ) ( -2696 2975 -192 ) +0hook_1 [ 6.123233995736767e-17 -1.2246467991473535e-16 -1.0000000000000002 5.738695e-13 ] [ 0 1.0000000000000002 -1.2246467991473535e-16 0 ] 270 1 1
 }
 }
-// entity 801
+// entity 817
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -19069,7 +19205,7 @@
 "_tb_transformation" "-1.8369701987210297e-16 -1 0 -1568 1 -1.8369701987210297e-16 0 3792 0 0 1 -128 0 0 0 1"
 "_tb_layer" "5"
 }
-// entity 802
+// entity 818
 {
 "classname" "func_hook"
 "_tb_group" "44"
@@ -19092,7 +19228,7 @@
 ( -1544 3536 -80 ) ( -1544 3536 -81 ) ( -1544 3535 -80 ) +0hook_1 [ 6.123233995736767e-17 -1.2246467991473535e-16 -1.0000000000000002 0 ] [ 0 1.0000000000000002 -1.2246467991473535e-16 -16 ] 270 1 1
 }
 }
-// entity 803
+// entity 819
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -19102,7 +19238,7 @@
 "_tb_transformation" "-1.8369701987210297e-16 -1 0 -2400 1 -1.8369701987210297e-16 0 4496 0 0 1 -64 0 0 0 1"
 "_tb_layer" "5"
 }
-// entity 804
+// entity 820
 {
 "classname" "func_hook"
 "_tb_group" "49"
@@ -19116,7 +19252,7 @@
 ( -2376 4240 16 ) ( -2376 4240 15 ) ( -2376 4239 16 ) +0hook_1 [ -6.123233995736767e-17 1.2246467991473537e-16 -1.0000000000000002 16 ] [ 0 -1.0000000000000002 -1.2246467991473537e-16 0 ] 270 1 1
 }
 }
-// entity 805
+// entity 821
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -19126,7 +19262,7 @@
 "_tb_transformation" "3.061616997868383e-16 1 0 -1792 -1 3.061616997868383e-16 0 3600 0 0 1 -63.99999999999999 0 0 0 1"
 "_tb_layer" "5"
 }
-// entity 806
+// entity 822
 {
 "classname" "func_hook"
 "_tb_group" "50"
@@ -19140,7 +19276,7 @@
 ( -1808 4064 -144 ) ( -1808 4065 -144 ) ( -1808 4064 -145 ) ind_light_fbo [ -6.123233995736772e-17 1.2246467991473532e-16 -1 160 ] [ 3.67394039744206e-16 -1 -1.2246467991473532e-16 -32 ] 90 1 1
 }
 }
-// entity 807
+// entity 823
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -19150,7 +19286,7 @@
 "_tb_transformation" "1 -2.4492935982947064e-16 0 -488 2.4492935982947064e-16 1 0 3048 0 0 1 -16 0 0 0 1"
 "_tb_layer" "5"
 }
-// entity 808
+// entity 824
 {
 "classname" "func_hook"
 "_tb_group" "51"
@@ -19164,7 +19300,7 @@
 ( -920 3016 64 ) ( -920 3017 64 ) ( -920 3016 63 ) ind_light_fbo [ -1.2246467991473535e-16 -6.123233995736772e-17 -1.0000000000000002 80 ] [ 3.0616169978683836e-16 -1.0000000000000002 6.123233995736767e-17 -40 ] 270 1 1
 }
 }
-// entity 809
+// entity 825
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -19174,7 +19310,7 @@
 "_tb_transformation" "3.061616997868383e-16 1 0 -1280 -1 3.061616997868383e-16 0 2276 0 0 1 -16 0 0 0 1"
 "_tb_layer" "5"
 }
-// entity 810
+// entity 826
 {
 "classname" "func_hook"
 "_tb_group" "52"
@@ -19188,7 +19324,7 @@
 ( -1296 2740 -96 ) ( -1296 2741 -96 ) ( -1296 2740 -97 ) ind_light_fbo [ -6.123233995736772e-17 1.2246467991473532e-16 -1 208 ] [ 3.67394039744206e-16 -1 -1.2246467991473532e-16 52 ] 180 1 1
 }
 }
-// entity 811
+// entity 827
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -19198,7 +19334,7 @@
 "_tb_transformation" "-1.8369701987210297e-16 -1 0 -2548 1 -1.8369701987210297e-16 0 3616 0 0 1 -128 0 0 0 1"
 "_tb_layer" "5"
 }
-// entity 812
+// entity 828
 {
 "classname" "func_hook"
 "_tb_group" "53"
@@ -19221,7 +19357,7 @@
 ( -2524 3360 -80 ) ( -2524 3360 -81 ) ( -2524 3359 -80 ) +0hook_1 [ 6.123233995736767e-17 -1.2246467991473535e-16 -1.0000000000000002 5.738695e-13 ] [ 0 1.0000000000000002 -1.2246467991473535e-16 0 ] 270 1 1
 }
 }
-// entity 813
+// entity 829
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -19231,7 +19367,7 @@
 "_tb_transformation" "-1.8369701987210297e-16 -1 0 -1808 1 -1.8369701987210297e-16 0 4352 0 0 1 -128 0 0 0 1"
 "_tb_layer" "5"
 }
-// entity 814
+// entity 830
 {
 "classname" "func_hook"
 "_tb_group" "54"
@@ -19245,7 +19381,7 @@
 ( -1784 4096 -48 ) ( -1784 4096 -49 ) ( -1784 4095 -48 ) +0hook_1 [ 6.123233995736767e-17 -1.2246467991473535e-16 -1.0000000000000002 0 ] [ 0 1.0000000000000002 -1.2246467991473535e-16 -16 ] 270 1 1
 }
 }
-// entity 815
+// entity 831
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -19255,7 +19391,7 @@
 "_tb_transformation" "3.061616997868383e-16 1 0 -2384 -1 3.061616997868383e-16 0 3664 0 0 1 -128 0 0 0 1"
 "_tb_layer" "5"
 }
-// entity 816
+// entity 832
 {
 "classname" "func_hook"
 "_tb_group" "55"
@@ -19269,7 +19405,7 @@
 ( -2400 4128 -208 ) ( -2400 4129 -208 ) ( -2400 4128 -209 ) ind_light_fbo [ -6.123233995736772e-17 1.2246467991473532e-16 -1 96 ] [ 3.67394039744206e-16 -1 -1.2246467991473532e-16 32 ] 180 1 1
 }
 }
-// entity 817
+// entity 833
 {
 "classname" "func_group"
 "_tb_type" "_tb_layer"
@@ -19277,7 +19413,7 @@
 "_tb_id" "48"
 "_tb_layer_sort_index" "0"
 }
-// entity 818
+// entity 834
 {
 "classname" "func_breakable"
 "targetname" "fbkey"
@@ -19331,7 +19467,7 @@
 ( -2060 4400 0 ) ( -2060 4352 -80 ) ( -2060 4352 0 ) glass01 [ 0 1 0 -48 ] [ 0 0 -1 0 ] 270 1 1
 }
 }
-// entity 819
+// entity 835
 {
 "classname" "trigger_once"
 "killtarget" "decoykey"
@@ -19348,7 +19484,7 @@
 ( -1520 560 -656 ) ( -1520 559 -656 ) ( -1520 560 -655 ) trigger [ 6.123233995736766e-17 -1 0 -32 ] [ 0 0 -1 16 ] 180 1 1
 }
 }
-// entity 820
+// entity 836
 {
 "classname" "trigger_changelevel"
 "spawnflags" "8"
@@ -19365,7 +19501,7 @@
 ( -1152 304 -432 ) ( -1152 304 -431 ) ( -1152 305 -432 ) trigger [ 0 1 0 -16 ] [ 0 0 -1 0 ] 180 1 1
 }
 }
-// entity 821
+// entity 837
 {
 "classname" "trigger_once"
 "target" "ss01"
@@ -19380,7 +19516,7 @@
 ( -928 2816 448 ) ( -928 2816 449 ) ( -928 2817 448 ) trigger [ 0 1 0 0 ] [ 0 0 -1 16 ] 0 1 1
 }
 }
-// entity 822
+// entity 838
 {
 "classname" "trigger_once"
 "targetname" "tow01"
@@ -19397,7 +19533,7 @@
 ( -1296 2608 224 ) ( -1296 2640 224 ) ( -1296 2640 -352 ) trigger [ 0 -1 0 0 ] [ 0 0 -1 0 ] 90 1 1
 }
 }
-// entity 823
+// entity 839
 {
 "classname" "trigger_once"
 "target" "fs02"
@@ -19413,7 +19549,7 @@
 ( -1568 4016 -336 ) ( -1568 4017 -336 ) ( -1568 4016 -337 ) trigger [ 2.4492935982947064e-16 -1 0 -16 ] [ 0 0 1 0 ] 90 1 1
 }
 }
-// entity 824
+// entity 840
 {
 "classname" "trigger_once"
 "target" "fs01"
@@ -19428,7 +19564,7 @@
 ( -864 3184 -432 ) ( -864 3184 -431 ) ( -864 3185 -432 ) trigger [ 0 1 0 0 ] [ 0 0 -1 -16 ] 180 1 1
 }
 }
-// entity 825
+// entity 841
 {
 "classname" "trigger_once"
 "target" "ss05"
@@ -19446,7 +19582,7 @@
 ( -1568 3312 -352 ) ( -1568 3312 -351 ) ( -1568 3313 -352 ) trigger [ 0 -1 0 16 ] [ 0 0 -1 -16 ] 270 1 1
 }
 }
-// entity 826
+// entity 842
 {
 "classname" "trigger_textstory"
 "targetname" "tts01"
@@ -19462,7 +19598,7 @@
 ( -1712 3928 -304 ) ( -1712 3927 -304 ) ( -1712 3928 -303 ) trigger [ -6.123233995736766e-17 1 0 -8 ] [ 0 0 -1 16 ] 180 1 1
 }
 }
-// entity 827
+// entity 843
 {
 "classname" "trigger_monsterjump"
 "angle" "90"
@@ -19477,7 +19613,7 @@
 ( -2560 3808 -80 ) ( -2560 3856 -80 ) ( -2560 3856 -192 ) trigger [ -1.8369701987210297e-16 1 0 -16 ] [ 0 0 -1 0 ] 180 1 1
 }
 }
-// entity 828
+// entity 844
 {
 "classname" "trigger_teleport"
 "target" "td01"
@@ -19492,7 +19628,7 @@
 ( -632 3208 -320 ) ( -632 3208 -319 ) ( -632 3209 -320 ) trigger [ 0 1 0 -24 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 829
+// entity 845
 {
 "classname" "trigger_once"
 "target" "ss12"
@@ -19507,14 +19643,14 @@
 ( -2352 4080 -304 ) ( -2352 4081 -304 ) ( -2352 4080 -305 ) trigger [ -1.8369701987210297e-16 1 0 0 ] [ 0 0 1 0 ] 90 1 -1
 }
 }
-// entity 830
+// entity 846
 {
 "classname" "weapon_supershotgun"
 "origin" "-1328 3472 -320"
 "target" "ss02"
 "_tb_layer" "48"
 }
-// entity 831
+// entity 847
 {
 "classname" "func_group"
 "_tb_type" "_tb_layer"
@@ -19524,7 +19660,7 @@
 "_tb_layer_hidden" "1"
 "_tb_layer_omit_from_export" "1"
 }
-// entity 832
+// entity 848
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -19534,7 +19670,7 @@
 "_tb_transformation" "-1.8369701987210297e-16 -1 0 -1600 1 -1.8369701987210297e-16 0 3392 0 0 1 -128 0 0 0 1"
 "_tb_layer" "142"
 }
-// entity 833
+// entity 849
 {
 "classname" "func_hook"
 "_tb_group" "45"
@@ -19548,7 +19684,7 @@
 ( -1576 3136 -48 ) ( -1576 3136 -49 ) ( -1576 3135 -48 ) +0hook_1 [ 6.123233995736767e-17 -1.2246467991473535e-16 -1.0000000000000002 0 ] [ 0 1.0000000000000002 -1.2246467991473535e-16 -16 ] 270 1 1
 }
 }
-// entity 834
+// entity 850
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -19558,7 +19694,7 @@
 "_tb_transformation" "-1.3777276490407721e-16 -0.75 0 -1602 -0.75 1.3777276490407721e-16 0 3040 0 0 0.75 -39.999999999999986 0 0 0 1"
 "_tb_layer" "142"
 }
-// entity 835
+// entity 851
 {
 "classname" "func_hook"
 "_tb_group" "32"
@@ -19581,7 +19717,7 @@
 ( -1584 3232 -4 ) ( -1584 3232.75 -4 ) ( -1584 3232 -4.75 ) ind_light_fbo [ 8.164311994315693e-17 1.6328623988631378e-16 -1.3333333333333333 138.66667 ] [ -3.2657247977262755e-16 -1.3333333333333333 -1.6328623988631378e-16 37.333496 ] 90 1 1
 }
 }
-// entity 836
+// entity 852
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -19591,7 +19727,7 @@
 "_tb_transformation" "6.123233995736766e-17 -1.4997597826618576e-32 -1 -2520 2.4492935982947064e-16 1 0 3656.0000000000005 1 -2.4492935982947064e-16 6.123233995736766e-17 536 0 0 0 1"
 "_tb_layer" "142"
 }
-// entity 837
+// entity 853
 {
 "classname" "func_hook"
 "_tb_group" "42"
@@ -19614,7 +19750,7 @@
 ( -2616 3640 72 ) ( -2616 3641 72 ) ( -2616 3640 71 ) ind_light_fbo [ -1.8369701987210297e-16 -3.061616997868383e-16 -1 72 ] [ -6.123233995736764e-17 -1 3.061616997868383e-16 56 ] 180 1 1
 }
 }
-// entity 838
+// entity 854
 {
 "classname" "func_group"
 "_tb_type" "_tb_layer"

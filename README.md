@@ -71,9 +71,11 @@ Electric Lava Disposal was made in 1 or 2 days i can’t remember, but i always 
 - Inky.
 - rabbit.
 - Makkon.
-- Wintersolstice
+- Wintersolstice.
+- thatspacepirate.
+- RecycledOJ.
 - Phoenyx.
-- NiGHTS108
+- NiGHTS108.
 - Mikolah.
 - RecycledOJ.
 - shadowelite7.

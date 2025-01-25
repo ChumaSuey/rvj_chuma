@@ -10,7 +10,7 @@ Author : Chuma
 
 Mod : Re:Mobilized
 
-bsp name: xmjr_chuma
+bsp name: rvj_chuma
 
 Original map: Quake Champions "Corrupted Keep".
 

@@ -9287,6 +9287,8 @@
 {
 "classname" "item_health"
 "origin" "-1120 2736 -336"
+"ritem" "1"
+"respawndelay" "30"
 }
 // entity 16
 {
@@ -10511,6 +10513,8 @@
 {
 "classname" "item_spikes"
 "origin" "-1728 3776 -336"
+"ritem" "1"
+"respawndelay" "30"
 }
 // entity 142
 {
@@ -12772,9 +12776,9 @@
 "wait" "5"
 "spawnflags" "1"
 "targetname" "ts"
-"noise" "roj/rumble.wav"
+"noise" "rumble.wav"
 "count" "250"
-"noise1" "roj/rumble.wav"
+"noise1" "rumble.wav"
 }
 // entity 406
 {

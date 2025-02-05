@@ -12279,7 +12279,7 @@
 "classname" "trigger_relay"
 "origin" "-2320 272 -400"
 "targetname" "trfinalmessage"
-"message" "S.I.A: Thanks Ranger, Goroth will be\ntaking charge of the dimension of the\ndoomed shortly! The lava beach base\nwhere Chthon resided will be destroyed\nto be rebuilt, the Earth magic rune will\nbe granted to you as a gift for\ndefending the multiverse across the\nslipgate lands! Pick up the rune, await\nfor my teleport 5 seconds after picking\nit up... See ya in the base."
+"message" "S.I.A: Thanks Ranger, Goroth will be\ntaking charge of the dimension of the\ndoomed shortly! The lava beach base\nwhere Chthon resided will be destroyed,\nit will be rebuilt in the future, the\nEarth magic rune will be granted to you\nas a gift for defending the multiverse\nacross the slipgate lands! After\ngrabbing the rune await 5 seconds safely\n(remain still preferrably) so i can\nteleport you back to the base... Good\njob Ranger!"
 }
 // entity 338
 {
@@ -12792,7 +12792,7 @@
 // entity 406
 {
 "classname" "trigger_textstory"
-"message" "S.I.A : Goroth was relieved of his power\nin the Dimension of the Doomed, he has\ntasked us in taking down Chthon and his\nminions, the only problem is that they\nare aware of your presence... Destroy\nall the Dark ones, acquire the Sigil of\nthe earth and  and reestablish the power\nto Goroth... in other words: Kill,\nRetrieve, and Restore...Your favorite\nsinger S.I.A (Slipgate Incursion\nAssistant)"
+"message" "S.I.A : Goroth was dethroned of the\nDimension of the Doomed, he has tasked\nus in taking down Chthon and his\nminions, the only problem is that they\nare aware of your presence... Destroy\nall the Dark ones, acquire the Sigil of\nthe earth and  and reestablish the power\nto Goroth... in other words: Kill,\nRetrieve, and Restore...Your favorite\nsinger S.I.A (Slipgate Incursion\nAssistant)"
 // brush 0
 {
 ( 981 -381 272 ) ( 981 -335 208 ) ( 981 -335 272 ) trigger [ -1.8369701987210558e-16 1.5000000000000369 2.7554552980815443e-16 -328 ] [ -9.184850993605187e-17 2.7554552980816123e-16 -1.5 -42 ] 180 1 1
@@ -19553,7 +19553,7 @@
 "classname" "trigger_once"
 "targetname" "tow01"
 "is_waiting" "1"
-"message" "S.I.A: Warning you will fight against\nChthon and reestablish the order to the\nDoomed Dimension to Goroth, but after\ncrossing the teleport you can't come\nback... good luck, Ranger!"
+"message" "S.I.A: Warning you will fight against\nChthon, kill him and restore equilibrium\nto the Dimension of the Doomed, BEWARE!\nyou can't return once you teleport...\ngood luck, Ranger! Goroth will be\npleased with your service."
 "_tb_layer" "48"
 // brush 0
 {
